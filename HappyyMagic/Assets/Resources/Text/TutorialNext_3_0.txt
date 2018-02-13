@@ -1,0 +1,42 @@
+﻿// @bgm {BGMの名前}
+// @name{【主人公】} 名前
+// @scene{シーン名} 遷移先のシーン名
+//------------------------------0-----------------------
+
+@charaVisible{right, false}
+@charaVisible{center, false}
+@charaVisible{left, false}
+
+@bgi{CastleNight}
+@bgm{02_ADV_Night}
+@chara{Cinderella, center}
+@charaVisible{center, true}
+@emo{EmotKofun, center}
+@emoVisible{center, true}
+
+@name{シンデレラ}
+
+よし！
+イメージトレーニングは完璧ね！
+
+@br//---------------------------1-----------------------
+
+@emo{EmotBikkuri, center}
+
+@name{シンデレラ}
+
+あとは、実際にお城に忍び込むだけ…。
+さあ、張り切っていくわよ！
+
+@br//---------------------------2-----------------------
+
+@emo{EmotHatena, center}
+
+@name{シンデレラ}
+
+うーん、でもどんなルートを通って行こうかしら…？
+
+@br//---------------------------3-----------------------
+
+@close
+@scene{StageSelectScene}

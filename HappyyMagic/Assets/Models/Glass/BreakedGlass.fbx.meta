@@ -1,0 +1,1338 @@
+fileFormatVersion: 2
+guid: 91df719827cef984294288258e302445
+timeCreated: 1518241776
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Heart01
+    100004: Heart02
+    100006: Heart03
+    100008: Heart04
+    100010: Heart05
+    100012: Heart06
+    100014: Heart07
+    100016: Heart08
+    100018: Heart09
+    100020: Heart10
+    100022: Heart11
+    100024: Heart12
+    100026: Heart13
+    100028: Heart14
+    100030: Heart15
+    100032: Heart16
+    100034: Heart17
+    100036: Heart18
+    100038: Heart19
+    100040: Heart20
+    100042: Heart21
+    100044: Heart22
+    100046: Heart23
+    100048: Heart24
+    100050: joint1
+    100052: joint10
+    100054: joint11
+    100056: joint12
+    100058: joint13
+    100060: joint14
+    100062: joint15
+    100064: joint16
+    100066: joint17
+    100068: joint18
+    100070: joint19
+    100072: joint2
+    100074: joint20
+    100076: joint21
+    100078: joint22
+    100080: joint23
+    100082: joint24
+    100084: joint25
+    100086: joint26
+    100088: joint27
+    100090: joint28
+    100092: joint29
+    100094: joint3
+    100096: joint30
+    100098: joint31
+    100100: joint32
+    100102: joint33
+    100104: joint34
+    100106: joint35
+    100108: joint36
+    100110: joint37
+    100112: joint38
+    100114: joint39
+    100116: joint4
+    100118: joint40
+    100120: joint41
+    100122: joint42
+    100124: joint43
+    100126: joint44
+    100128: joint45
+    100130: joint46
+    100132: joint47
+    100134: joint48
+    100136: joint49
+    100138: joint5
+    100140: joint50
+    100142: joint51
+    100144: joint52
+    100146: joint53
+    100148: joint54
+    100150: joint55
+    100152: joint56
+    100154: joint6
+    100156: joint7
+    100158: joint9
+    100160: parent01
+    100162: pCube1_shard_1
+    100164: pCube1_shard_10_shard_1
+    100166: pCube1_shard_10_shard_2
+    100168: pCube1_shard_10_shard_3
+    100170: pCube1_shard_11
+    100172: pCube1_shard_12
+    100174: pCube1_shard_13_shard_1
+    100176: pCube1_shard_13_shard_2_shard_1
+    100178: pCube1_shard_13_shard_2_shard_2_shard_1
+    100180: pCube1_shard_13_shard_2_shard_2_shard_2
+    100182: pCube1_shard_13_shard_2_shard_2_shard_3
+    100184: pCube1_shard_13_shard_2_shard_3_shard_1
+    100186: pCube1_shard_13_shard_2_shard_3_shard_2
+    100188: pCube1_shard_13_shard_2_shard_3_shard_3
+    100190: pCube1_shard_13_shard_3_shard_1
+    100192: pCube1_shard_13_shard_3_shard_2
+    100194: pCube1_shard_13_shard_3_shard_3
+    100196: pCube1_shard_14_shard_1_shard_1
+    100198: pCube1_shard_14_shard_1_shard_2
+    100200: pCube1_shard_14_shard_1_shard_3_shard_1
+    100202: pCube1_shard_14_shard_1_shard_3_shard_2
+    100204: pCube1_shard_14_shard_1_shard_3_shard_3
+    100206: pCube1_shard_14_shard_2_shard_1
+    100208: pCube1_shard_14_shard_2_shard_2_shard_1
+    100210: pCube1_shard_14_shard_2_shard_2_shard_2
+    100212: pCube1_shard_14_shard_2_shard_2_shard_3
+    100214: pCube1_shard_14_shard_2_shard_3_shard_1
+    100216: pCube1_shard_14_shard_2_shard_3_shard_2
+    100218: pCube1_shard_14_shard_2_shard_3_shard_3_shard_1
+    100220: pCube1_shard_14_shard_2_shard_3_shard_3_shard_2_shard_1
+    100222: pCube1_shard_14_shard_2_shard_3_shard_3_shard_2_shard_2
+    100224: pCube1_shard_14_shard_2_shard_3_shard_3_shard_2_shard_3
+    100226: pCube1_shard_14_shard_2_shard_3_shard_3_shard_3
+    100228: pCube1_shard_14_shard_3
+    100230: pCube1_shard_14_shard_4
+    100232: pCube1_shard_15
+    100234: pCube1_shard_16
+    100236: pCube1_shard_17
+    100238: pCube1_shard_18_shard_1
+    100240: pCube1_shard_18_shard_2
+    100242: pCube1_shard_18_shard_3
+    100244: pCube1_shard_18_shard_4_shard_1
+    100246: pCube1_shard_18_shard_4_shard_2
+    100248: pCube1_shard_18_shard_4_shard_3
+    100250: pCube1_shard_18_shard_5
+    100252: pCube1_shard_19
+    100254: pCube1_shard_2
+    100256: pCube1_shard_20
+    100258: pCube1_shard_4
+    100260: pCube1_shard_5
+    100262: pCube1_shard_6
+    100264: pCube1_shard_7
+    100266: pCube1_shard_8
+    100268: pCube1_shard_9
+    100270: polySurface3_shard_1
+    100272: polySurface3_shard_10
+    100274: polySurface3_shard_11
+    100276: polySurface3_shard_12
+    100278: polySurface3_shard_13
+    100280: polySurface3_shard_14
+    100282: polySurface3_shard_15
+    100284: polySurface3_shard_16
+    100286: polySurface3_shard_17
+    100288: polySurface3_shard_18
+    100290: polySurface3_shard_19
+    100292: polySurface3_shard_2
+    100294: polySurface3_shard_20
+    100296: polySurface3_shard_21
+    100298: polySurface3_shard_22
+    100300: polySurface3_shard_23
+    100302: polySurface3_shard_24
+    100304: polySurface3_shard_25
+    100306: polySurface3_shard_3
+    100308: polySurface3_shard_4
+    100310: polySurface3_shard_5_shard_1
+    100312: polySurface3_shard_5_shard_2
+    100314: polySurface3_shard_5_shard_3
+    100316: polySurface3_shard_5_shard_4
+    100318: polySurface3_shard_6_shard_1
+    100320: polySurface3_shard_6_shard_2_shard_1
+    100322: polySurface3_shard_6_shard_2_shard_2
+    100324: polySurface3_shard_6_shard_2_shard_3
+    100326: polySurface3_shard_6_shard_3
+    100328: polySurface3_shard_6_shard_4
+    100330: polySurface3_shard_7
+    100332: polySurface3_shard_8
+    100334: polySurface3_shard_9
+    100336: polySurface4_shard_1
+    100338: polySurface4_shard_10
+    100340: polySurface4_shard_11
+    100342: polySurface4_shard_12
+    100344: polySurface4_shard_13
+    100346: polySurface4_shard_14
+    100348: polySurface4_shard_15
+    100350: polySurface4_shard_16
+    100352: polySurface4_shard_17
+    100354: polySurface4_shard_18
+    100356: polySurface4_shard_19
+    100358: polySurface4_shard_2
+    100360: polySurface4_shard_20
+    100362: polySurface4_shard_3
+    100364: polySurface4_shard_4
+    100366: polySurface4_shard_5
+    100368: polySurface4_shard_6
+    100370: polySurface4_shard_7_shard_1
+    100372: polySurface4_shard_7_shard_2
+    100374: polySurface4_shard_7_shard_3
+    100376: polySurface4_shard_7_shard_4
+    100378: polySurface4_shard_7_shard_5
+    100380: polySurface4_shard_8
+    100382: polySurface4_shard_9
+    100384: Ribbon01
+    100386: Ribbon02
+    100388: Ribbon03
+    100390: Ribbon04
+    100392: Ribbon05
+    100394: Ribbon06
+    100396: Ribbon07
+    100398: Ribbon08
+    100400: Ribbon09
+    100402: Ribbon10
+    100404: Ribbon11
+    100406: Ribbon12
+    100408: Ribbon13
+    100410: Ribbon14
+    100412: Ribbon15
+    100414: Ribbon16
+    100416: Ribbon17
+    100418: Ribbon18
+    100420: Ribbon19
+    100422: Ribbon20
+    100424: Ribbon21
+    100426: Ribbon22
+    100428: Ribbon23
+    100430: Ribbon24
+    100432: Ribbon25
+    100434: Ribbon26
+    100436: Ribbon27
+    100438: Ribbon28
+    100440: Ribbon29
+    100442: Ribbon30
+    100444: Ribbon31
+    100446: Ribbon32
+    100448: Ribbon33
+    400000: //RootNode
+    400002: Heart01
+    400004: Heart02
+    400006: Heart03
+    400008: Heart04
+    400010: Heart05
+    400012: Heart06
+    400014: Heart07
+    400016: Heart08
+    400018: Heart09
+    400020: Heart10
+    400022: Heart11
+    400024: Heart12
+    400026: Heart13
+    400028: Heart14
+    400030: Heart15
+    400032: Heart16
+    400034: Heart17
+    400036: Heart18
+    400038: Heart19
+    400040: Heart20
+    400042: Heart21
+    400044: Heart22
+    400046: Heart23
+    400048: Heart24
+    400050: joint1
+    400052: joint10
+    400054: joint11
+    400056: joint12
+    400058: joint13
+    400060: joint14
+    400062: joint15
+    400064: joint16
+    400066: joint17
+    400068: joint18
+    400070: joint19
+    400072: joint2
+    400074: joint20
+    400076: joint21
+    400078: joint22
+    400080: joint23
+    400082: joint24
+    400084: joint25
+    400086: joint26
+    400088: joint27
+    400090: joint28
+    400092: joint29
+    400094: joint3
+    400096: joint30
+    400098: joint31
+    400100: joint32
+    400102: joint33
+    400104: joint34
+    400106: joint35
+    400108: joint36
+    400110: joint37
+    400112: joint38
+    400114: joint39
+    400116: joint4
+    400118: joint40
+    400120: joint41
+    400122: joint42
+    400124: joint43
+    400126: joint44
+    400128: joint45
+    400130: joint46
+    400132: joint47
+    400134: joint48
+    400136: joint49
+    400138: joint5
+    400140: joint50
+    400142: joint51
+    400144: joint52
+    400146: joint53
+    400148: joint54
+    400150: joint55
+    400152: joint56
+    400154: joint6
+    400156: joint7
+    400158: joint9
+    400160: parent01
+    400162: pCube1_shard_1
+    400164: pCube1_shard_10_shard_1
+    400166: pCube1_shard_10_shard_2
+    400168: pCube1_shard_10_shard_3
+    400170: pCube1_shard_11
+    400172: pCube1_shard_12
+    400174: pCube1_shard_13_shard_1
+    400176: pCube1_shard_13_shard_2_shard_1
+    400178: pCube1_shard_13_shard_2_shard_2_shard_1
+    400180: pCube1_shard_13_shard_2_shard_2_shard_2
+    400182: pCube1_shard_13_shard_2_shard_2_shard_3
+    400184: pCube1_shard_13_shard_2_shard_3_shard_1
+    400186: pCube1_shard_13_shard_2_shard_3_shard_2
+    400188: pCube1_shard_13_shard_2_shard_3_shard_3
+    400190: pCube1_shard_13_shard_3_shard_1
+    400192: pCube1_shard_13_shard_3_shard_2
+    400194: pCube1_shard_13_shard_3_shard_3
+    400196: pCube1_shard_14_shard_1_shard_1
+    400198: pCube1_shard_14_shard_1_shard_2
+    400200: pCube1_shard_14_shard_1_shard_3_shard_1
+    400202: pCube1_shard_14_shard_1_shard_3_shard_2
+    400204: pCube1_shard_14_shard_1_shard_3_shard_3
+    400206: pCube1_shard_14_shard_2_shard_1
+    400208: pCube1_shard_14_shard_2_shard_2_shard_1
+    400210: pCube1_shard_14_shard_2_shard_2_shard_2
+    400212: pCube1_shard_14_shard_2_shard_2_shard_3
+    400214: pCube1_shard_14_shard_2_shard_3_shard_1
+    400216: pCube1_shard_14_shard_2_shard_3_shard_2
+    400218: pCube1_shard_14_shard_2_shard_3_shard_3_shard_1
+    400220: pCube1_shard_14_shard_2_shard_3_shard_3_shard_2_shard_1
+    400222: pCube1_shard_14_shard_2_shard_3_shard_3_shard_2_shard_2
+    400224: pCube1_shard_14_shard_2_shard_3_shard_3_shard_2_shard_3
+    400226: pCube1_shard_14_shard_2_shard_3_shard_3_shard_3
+    400228: pCube1_shard_14_shard_3
+    400230: pCube1_shard_14_shard_4
+    400232: pCube1_shard_15
+    400234: pCube1_shard_16
+    400236: pCube1_shard_17
+    400238: pCube1_shard_18_shard_1
+    400240: pCube1_shard_18_shard_2
+    400242: pCube1_shard_18_shard_3
+    400244: pCube1_shard_18_shard_4_shard_1
+    400246: pCube1_shard_18_shard_4_shard_2
+    400248: pCube1_shard_18_shard_4_shard_3
+    400250: pCube1_shard_18_shard_5
+    400252: pCube1_shard_19
+    400254: pCube1_shard_2
+    400256: pCube1_shard_20
+    400258: pCube1_shard_4
+    400260: pCube1_shard_5
+    400262: pCube1_shard_6
+    400264: pCube1_shard_7
+    400266: pCube1_shard_8
+    400268: pCube1_shard_9
+    400270: polySurface3_shard_1
+    400272: polySurface3_shard_10
+    400274: polySurface3_shard_11
+    400276: polySurface3_shard_12
+    400278: polySurface3_shard_13
+    400280: polySurface3_shard_14
+    400282: polySurface3_shard_15
+    400284: polySurface3_shard_16
+    400286: polySurface3_shard_17
+    400288: polySurface3_shard_18
+    400290: polySurface3_shard_19
+    400292: polySurface3_shard_2
+    400294: polySurface3_shard_20
+    400296: polySurface3_shard_21
+    400298: polySurface3_shard_22
+    400300: polySurface3_shard_23
+    400302: polySurface3_shard_24
+    400304: polySurface3_shard_25
+    400306: polySurface3_shard_3
+    400308: polySurface3_shard_4
+    400310: polySurface3_shard_5_shard_1
+    400312: polySurface3_shard_5_shard_2
+    400314: polySurface3_shard_5_shard_3
+    400316: polySurface3_shard_5_shard_4
+    400318: polySurface3_shard_6_shard_1
+    400320: polySurface3_shard_6_shard_2_shard_1
+    400322: polySurface3_shard_6_shard_2_shard_2
+    400324: polySurface3_shard_6_shard_2_shard_3
+    400326: polySurface3_shard_6_shard_3
+    400328: polySurface3_shard_6_shard_4
+    400330: polySurface3_shard_7
+    400332: polySurface3_shard_8
+    400334: polySurface3_shard_9
+    400336: polySurface4_shard_1
+    400338: polySurface4_shard_10
+    400340: polySurface4_shard_11
+    400342: polySurface4_shard_12
+    400344: polySurface4_shard_13
+    400346: polySurface4_shard_14
+    400348: polySurface4_shard_15
+    400350: polySurface4_shard_16
+    400352: polySurface4_shard_17
+    400354: polySurface4_shard_18
+    400356: polySurface4_shard_19
+    400358: polySurface4_shard_2
+    400360: polySurface4_shard_20
+    400362: polySurface4_shard_3
+    400364: polySurface4_shard_4
+    400366: polySurface4_shard_5
+    400368: polySurface4_shard_6
+    400370: polySurface4_shard_7_shard_1
+    400372: polySurface4_shard_7_shard_2
+    400374: polySurface4_shard_7_shard_3
+    400376: polySurface4_shard_7_shard_4
+    400378: polySurface4_shard_7_shard_5
+    400380: polySurface4_shard_8
+    400382: polySurface4_shard_9
+    400384: Ribbon01
+    400386: Ribbon02
+    400388: Ribbon03
+    400390: Ribbon04
+    400392: Ribbon05
+    400394: Ribbon06
+    400396: Ribbon07
+    400398: Ribbon08
+    400400: Ribbon09
+    400402: Ribbon10
+    400404: Ribbon11
+    400406: Ribbon12
+    400408: Ribbon13
+    400410: Ribbon14
+    400412: Ribbon15
+    400414: Ribbon16
+    400416: Ribbon17
+    400418: Ribbon18
+    400420: Ribbon19
+    400422: Ribbon20
+    400424: Ribbon21
+    400426: Ribbon22
+    400428: Ribbon23
+    400430: Ribbon24
+    400432: Ribbon25
+    400434: Ribbon26
+    400436: Ribbon27
+    400438: Ribbon28
+    400440: Ribbon29
+    400442: Ribbon30
+    400444: Ribbon31
+    400446: Ribbon32
+    400448: Ribbon33
+    2300000: pCube1_shard_1
+    2300002: pCube1_shard_10_shard_1
+    2300004: pCube1_shard_10_shard_2
+    2300006: pCube1_shard_10_shard_3
+    2300008: pCube1_shard_11
+    2300010: pCube1_shard_12
+    2300012: pCube1_shard_13_shard_1
+    2300014: pCube1_shard_13_shard_2_shard_1
+    2300016: pCube1_shard_13_shard_2_shard_2_shard_1
+    2300018: pCube1_shard_13_shard_2_shard_2_shard_2
+    2300020: pCube1_shard_13_shard_2_shard_2_shard_3
+    2300022: pCube1_shard_13_shard_2_shard_3_shard_1
+    2300024: pCube1_shard_13_shard_2_shard_3_shard_2
+    2300026: pCube1_shard_13_shard_2_shard_3_shard_3
+    2300028: pCube1_shard_13_shard_3_shard_1
+    2300030: pCube1_shard_13_shard_3_shard_2
+    2300032: pCube1_shard_13_shard_3_shard_3
+    2300034: pCube1_shard_14_shard_1_shard_1
+    2300036: pCube1_shard_14_shard_1_shard_2
+    2300038: pCube1_shard_14_shard_1_shard_3_shard_1
+    2300040: pCube1_shard_14_shard_1_shard_3_shard_2
+    2300042: pCube1_shard_14_shard_1_shard_3_shard_3
+    2300044: pCube1_shard_14_shard_2_shard_1
+    2300046: pCube1_shard_14_shard_2_shard_2_shard_1
+    2300048: pCube1_shard_14_shard_2_shard_2_shard_2
+    2300050: pCube1_shard_14_shard_2_shard_2_shard_3
+    2300052: pCube1_shard_14_shard_2_shard_3_shard_1
+    2300054: pCube1_shard_14_shard_2_shard_3_shard_2
+    2300056: pCube1_shard_14_shard_2_shard_3_shard_3_shard_1
+    2300058: pCube1_shard_14_shard_2_shard_3_shard_3_shard_2_shard_1
+    2300060: pCube1_shard_14_shard_2_shard_3_shard_3_shard_2_shard_2
+    2300062: pCube1_shard_14_shard_2_shard_3_shard_3_shard_2_shard_3
+    2300064: pCube1_shard_14_shard_2_shard_3_shard_3_shard_3
+    2300066: pCube1_shard_14_shard_3
+    2300068: pCube1_shard_14_shard_4
+    2300070: pCube1_shard_15
+    2300072: pCube1_shard_16
+    2300074: pCube1_shard_17
+    2300076: pCube1_shard_18_shard_1
+    2300078: pCube1_shard_18_shard_2
+    2300080: pCube1_shard_18_shard_3
+    2300082: pCube1_shard_18_shard_4_shard_1
+    2300084: pCube1_shard_18_shard_4_shard_2
+    2300086: pCube1_shard_18_shard_4_shard_3
+    2300088: pCube1_shard_18_shard_5
+    2300090: pCube1_shard_19
+    2300092: pCube1_shard_2
+    2300094: pCube1_shard_20
+    2300096: pCube1_shard_4
+    2300098: pCube1_shard_5
+    2300100: pCube1_shard_6
+    2300102: pCube1_shard_7
+    2300104: pCube1_shard_8
+    2300106: pCube1_shard_9
+    2300108: polySurface3_shard_1
+    2300110: polySurface3_shard_10
+    2300112: polySurface3_shard_11
+    2300114: polySurface3_shard_12
+    2300116: polySurface3_shard_13
+    2300118: polySurface3_shard_14
+    2300120: polySurface3_shard_15
+    2300122: polySurface3_shard_16
+    2300124: polySurface3_shard_17
+    2300126: polySurface3_shard_18
+    2300128: polySurface3_shard_19
+    2300130: polySurface3_shard_2
+    2300132: polySurface3_shard_20
+    2300134: polySurface3_shard_21
+    2300136: polySurface3_shard_22
+    2300138: polySurface3_shard_23
+    2300140: polySurface3_shard_24
+    2300142: polySurface3_shard_25
+    2300144: polySurface3_shard_3
+    2300146: polySurface3_shard_4
+    2300148: polySurface3_shard_5_shard_1
+    2300150: polySurface3_shard_5_shard_2
+    2300152: polySurface3_shard_5_shard_3
+    2300154: polySurface3_shard_5_shard_4
+    2300156: polySurface3_shard_6_shard_1
+    2300158: polySurface3_shard_6_shard_2_shard_1
+    2300160: polySurface3_shard_6_shard_2_shard_2
+    2300162: polySurface3_shard_6_shard_2_shard_3
+    2300164: polySurface3_shard_6_shard_3
+    2300166: polySurface3_shard_6_shard_4
+    2300168: polySurface3_shard_7
+    2300170: polySurface3_shard_8
+    2300172: polySurface3_shard_9
+    2300174: polySurface4_shard_1
+    2300176: polySurface4_shard_10
+    2300178: polySurface4_shard_11
+    2300180: polySurface4_shard_12
+    2300182: polySurface4_shard_13
+    2300184: polySurface4_shard_14
+    2300186: polySurface4_shard_15
+    2300188: polySurface4_shard_16
+    2300190: polySurface4_shard_17
+    2300192: polySurface4_shard_18
+    2300194: polySurface4_shard_19
+    2300196: polySurface4_shard_2
+    2300198: polySurface4_shard_20
+    2300200: polySurface4_shard_3
+    2300202: polySurface4_shard_4
+    2300204: polySurface4_shard_5
+    2300206: polySurface4_shard_6
+    2300208: polySurface4_shard_7_shard_1
+    2300210: polySurface4_shard_7_shard_2
+    2300212: polySurface4_shard_7_shard_3
+    2300214: polySurface4_shard_7_shard_4
+    2300216: polySurface4_shard_7_shard_5
+    2300218: polySurface4_shard_8
+    2300220: polySurface4_shard_9
+    3300000: pCube1_shard_1
+    3300002: pCube1_shard_10_shard_1
+    3300004: pCube1_shard_10_shard_2
+    3300006: pCube1_shard_10_shard_3
+    3300008: pCube1_shard_11
+    3300010: pCube1_shard_12
+    3300012: pCube1_shard_13_shard_1
+    3300014: pCube1_shard_13_shard_2_shard_1
+    3300016: pCube1_shard_13_shard_2_shard_2_shard_1
+    3300018: pCube1_shard_13_shard_2_shard_2_shard_2
+    3300020: pCube1_shard_13_shard_2_shard_2_shard_3
+    3300022: pCube1_shard_13_shard_2_shard_3_shard_1
+    3300024: pCube1_shard_13_shard_2_shard_3_shard_2
+    3300026: pCube1_shard_13_shard_2_shard_3_shard_3
+    3300028: pCube1_shard_13_shard_3_shard_1
+    3300030: pCube1_shard_13_shard_3_shard_2
+    3300032: pCube1_shard_13_shard_3_shard_3
+    3300034: pCube1_shard_14_shard_1_shard_1
+    3300036: pCube1_shard_14_shard_1_shard_2
+    3300038: pCube1_shard_14_shard_1_shard_3_shard_1
+    3300040: pCube1_shard_14_shard_1_shard_3_shard_2
+    3300042: pCube1_shard_14_shard_1_shard_3_shard_3
+    3300044: pCube1_shard_14_shard_2_shard_1
+    3300046: pCube1_shard_14_shard_2_shard_2_shard_1
+    3300048: pCube1_shard_14_shard_2_shard_2_shard_2
+    3300050: pCube1_shard_14_shard_2_shard_2_shard_3
+    3300052: pCube1_shard_14_shard_2_shard_3_shard_1
+    3300054: pCube1_shard_14_shard_2_shard_3_shard_2
+    3300056: pCube1_shard_14_shard_2_shard_3_shard_3_shard_1
+    3300058: pCube1_shard_14_shard_2_shard_3_shard_3_shard_2_shard_1
+    3300060: pCube1_shard_14_shard_2_shard_3_shard_3_shard_2_shard_2
+    3300062: pCube1_shard_14_shard_2_shard_3_shard_3_shard_2_shard_3
+    3300064: pCube1_shard_14_shard_2_shard_3_shard_3_shard_3
+    3300066: pCube1_shard_14_shard_3
+    3300068: pCube1_shard_14_shard_4
+    3300070: pCube1_shard_15
+    3300072: pCube1_shard_16
+    3300074: pCube1_shard_17
+    3300076: pCube1_shard_18_shard_1
+    3300078: pCube1_shard_18_shard_2
+    3300080: pCube1_shard_18_shard_3
+    3300082: pCube1_shard_18_shard_4_shard_1
+    3300084: pCube1_shard_18_shard_4_shard_2
+    3300086: pCube1_shard_18_shard_4_shard_3
+    3300088: pCube1_shard_18_shard_5
+    3300090: pCube1_shard_19
+    3300092: pCube1_shard_2
+    3300094: pCube1_shard_20
+    3300096: pCube1_shard_4
+    3300098: pCube1_shard_5
+    3300100: pCube1_shard_6
+    3300102: pCube1_shard_7
+    3300104: pCube1_shard_8
+    3300106: pCube1_shard_9
+    3300108: polySurface3_shard_1
+    3300110: polySurface3_shard_10
+    3300112: polySurface3_shard_11
+    3300114: polySurface3_shard_12
+    3300116: polySurface3_shard_13
+    3300118: polySurface3_shard_14
+    3300120: polySurface3_shard_15
+    3300122: polySurface3_shard_16
+    3300124: polySurface3_shard_17
+    3300126: polySurface3_shard_18
+    3300128: polySurface3_shard_19
+    3300130: polySurface3_shard_2
+    3300132: polySurface3_shard_20
+    3300134: polySurface3_shard_21
+    3300136: polySurface3_shard_22
+    3300138: polySurface3_shard_23
+    3300140: polySurface3_shard_24
+    3300142: polySurface3_shard_25
+    3300144: polySurface3_shard_3
+    3300146: polySurface3_shard_4
+    3300148: polySurface3_shard_5_shard_1
+    3300150: polySurface3_shard_5_shard_2
+    3300152: polySurface3_shard_5_shard_3
+    3300154: polySurface3_shard_5_shard_4
+    3300156: polySurface3_shard_6_shard_1
+    3300158: polySurface3_shard_6_shard_2_shard_1
+    3300160: polySurface3_shard_6_shard_2_shard_2
+    3300162: polySurface3_shard_6_shard_2_shard_3
+    3300164: polySurface3_shard_6_shard_3
+    3300166: polySurface3_shard_6_shard_4
+    3300168: polySurface3_shard_7
+    3300170: polySurface3_shard_8
+    3300172: polySurface3_shard_9
+    3300174: polySurface4_shard_1
+    3300176: polySurface4_shard_10
+    3300178: polySurface4_shard_11
+    3300180: polySurface4_shard_12
+    3300182: polySurface4_shard_13
+    3300184: polySurface4_shard_14
+    3300186: polySurface4_shard_15
+    3300188: polySurface4_shard_16
+    3300190: polySurface4_shard_17
+    3300192: polySurface4_shard_18
+    3300194: polySurface4_shard_19
+    3300196: polySurface4_shard_2
+    3300198: polySurface4_shard_20
+    3300200: polySurface4_shard_3
+    3300202: polySurface4_shard_4
+    3300204: polySurface4_shard_5
+    3300206: polySurface4_shard_6
+    3300208: polySurface4_shard_7_shard_1
+    3300210: polySurface4_shard_7_shard_2
+    3300212: polySurface4_shard_7_shard_3
+    3300214: polySurface4_shard_7_shard_4
+    3300216: polySurface4_shard_7_shard_5
+    3300218: polySurface4_shard_8
+    3300220: polySurface4_shard_9
+    4300000: pCube1_shard_1
+    4300002: pCube1_shard_2
+    4300004: pCube1_shard_4
+    4300006: pCube1_shard_5
+    4300008: pCube1_shard_6
+    4300010: pCube1_shard_7
+    4300012: pCube1_shard_8
+    4300014: pCube1_shard_9
+    4300016: pCube1_shard_10_shard_1
+    4300018: pCube1_shard_10_shard_2
+    4300020: pCube1_shard_10_shard_3
+    4300022: pCube1_shard_11
+    4300024: pCube1_shard_12
+    4300026: pCube1_shard_13_shard_1
+    4300028: pCube1_shard_13_shard_2_shard_1
+    4300030: pCube1_shard_13_shard_2_shard_2_shard_1
+    4300032: pCube1_shard_13_shard_2_shard_2_shard_2
+    4300034: pCube1_shard_13_shard_2_shard_2_shard_3
+    4300036: pCube1_shard_13_shard_2_shard_3_shard_1
+    4300038: pCube1_shard_13_shard_2_shard_3_shard_2
+    4300040: pCube1_shard_13_shard_2_shard_3_shard_3
+    4300042: pCube1_shard_13_shard_3_shard_1
+    4300044: pCube1_shard_13_shard_3_shard_2
+    4300046: pCube1_shard_13_shard_3_shard_3
+    4300048: pCube1_shard_14_shard_2_shard_1
+    4300050: pCube1_shard_14_shard_2_shard_2_shard_1
+    4300052: pCube1_shard_14_shard_2_shard_2_shard_2
+    4300054: pCube1_shard_14_shard_2_shard_2_shard_3
+    4300056: pCube1_shard_14_shard_2_shard_3_shard_1
+    4300058: pCube1_shard_14_shard_2_shard_3_shard_2
+    4300060: pCube1_shard_14_shard_2_shard_3_shard_3_shard_1
+    4300062: pCube1_shard_14_shard_2_shard_3_shard_3_shard_2_shard_1
+    4300064: pCube1_shard_14_shard_2_shard_3_shard_3_shard_2_shard_2
+    4300066: pCube1_shard_14_shard_2_shard_3_shard_3_shard_2_shard_3
+    4300068: pCube1_shard_14_shard_2_shard_3_shard_3_shard_3
+    4300070: pCube1_shard_14_shard_1_shard_1
+    4300072: pCube1_shard_14_shard_1_shard_2
+    4300074: pCube1_shard_14_shard_1_shard_3_shard_1
+    4300076: pCube1_shard_14_shard_1_shard_3_shard_2
+    4300078: pCube1_shard_14_shard_1_shard_3_shard_3
+    4300080: pCube1_shard_14_shard_3
+    4300082: pCube1_shard_14_shard_4
+    4300084: pCube1_shard_15
+    4300086: pCube1_shard_16
+    4300088: pCube1_shard_17
+    4300090: pCube1_shard_18_shard_1
+    4300092: pCube1_shard_18_shard_2
+    4300094: pCube1_shard_18_shard_3
+    4300096: pCube1_shard_18_shard_4_shard_1
+    4300098: pCube1_shard_18_shard_4_shard_2
+    4300100: pCube1_shard_18_shard_4_shard_3
+    4300102: pCube1_shard_18_shard_5
+    4300104: pCube1_shard_19
+    4300106: pCube1_shard_20
+    4300108: polySurface3_shard_1
+    4300110: polySurface3_shard_2
+    4300112: polySurface3_shard_3
+    4300114: polySurface3_shard_4
+    4300116: polySurface3_shard_5_shard_1
+    4300118: polySurface3_shard_5_shard_2
+    4300120: polySurface3_shard_5_shard_3
+    4300122: polySurface3_shard_5_shard_4
+    4300124: polySurface3_shard_6_shard_1
+    4300126: polySurface3_shard_6_shard_3
+    4300128: polySurface3_shard_6_shard_4
+    4300130: polySurface3_shard_6_shard_2_shard_1
+    4300132: polySurface3_shard_6_shard_2_shard_2
+    4300134: polySurface3_shard_6_shard_2_shard_3
+    4300136: polySurface3_shard_7
+    4300138: polySurface3_shard_8
+    4300140: polySurface3_shard_9
+    4300142: polySurface3_shard_10
+    4300144: polySurface3_shard_11
+    4300146: polySurface3_shard_12
+    4300148: polySurface3_shard_13
+    4300150: polySurface3_shard_14
+    4300152: polySurface3_shard_15
+    4300154: polySurface3_shard_16
+    4300156: polySurface3_shard_17
+    4300158: polySurface3_shard_18
+    4300160: polySurface3_shard_19
+    4300162: polySurface3_shard_20
+    4300164: polySurface3_shard_21
+    4300166: polySurface3_shard_22
+    4300168: polySurface3_shard_23
+    4300170: polySurface3_shard_24
+    4300172: polySurface3_shard_25
+    4300174: polySurface4_shard_1
+    4300176: polySurface4_shard_2
+    4300178: polySurface4_shard_3
+    4300180: polySurface4_shard_4
+    4300182: polySurface4_shard_5
+    4300184: polySurface4_shard_6
+    4300186: polySurface4_shard_7_shard_1
+    4300188: polySurface4_shard_7_shard_2
+    4300190: polySurface4_shard_7_shard_3
+    4300192: polySurface4_shard_7_shard_4
+    4300194: polySurface4_shard_7_shard_5
+    4300196: polySurface4_shard_8
+    4300198: polySurface4_shard_9
+    4300200: polySurface4_shard_10
+    4300202: polySurface4_shard_11
+    4300204: polySurface4_shard_12
+    4300206: polySurface4_shard_13
+    4300208: polySurface4_shard_14
+    4300210: polySurface4_shard_15
+    4300212: polySurface4_shard_16
+    4300214: polySurface4_shard_17
+    4300216: polySurface4_shard_18
+    4300218: polySurface4_shard_19
+    4300220: polySurface4_shard_20
+    7400000: glassBreak
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: glassBreak
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: parent01
+        weight: 1
+      - path: parent01/Heart01
+        weight: 1
+      - path: parent01/Heart01/polySurface4_shard_1
+        weight: 1
+      - path: parent01/Heart02
+        weight: 1
+      - path: parent01/Heart02/polySurface4_shard_2
+        weight: 1
+      - path: parent01/Heart03
+        weight: 1
+      - path: parent01/Heart03/polySurface4_shard_3
+        weight: 1
+      - path: parent01/Heart04
+        weight: 1
+      - path: parent01/Heart04/polySurface4_shard_4
+        weight: 1
+      - path: parent01/Heart05
+        weight: 1
+      - path: parent01/Heart05/polySurface4_shard_5
+        weight: 1
+      - path: parent01/Heart06
+        weight: 1
+      - path: parent01/Heart06/polySurface4_shard_6
+        weight: 1
+      - path: parent01/Heart07
+        weight: 1
+      - path: parent01/Heart07/polySurface4_shard_7_shard_1
+        weight: 1
+      - path: parent01/Heart08
+        weight: 1
+      - path: parent01/Heart08/polySurface4_shard_7_shard_2
+        weight: 1
+      - path: parent01/Heart09
+        weight: 1
+      - path: parent01/Heart09/polySurface4_shard_7_shard_3
+        weight: 1
+      - path: parent01/Heart10
+        weight: 1
+      - path: parent01/Heart10/polySurface4_shard_7_shard_4
+        weight: 1
+      - path: parent01/Heart11
+        weight: 1
+      - path: parent01/Heart11/polySurface4_shard_7_shard_5
+        weight: 1
+      - path: parent01/Heart12
+        weight: 1
+      - path: parent01/Heart12/polySurface4_shard_8
+        weight: 1
+      - path: parent01/Heart13
+        weight: 1
+      - path: parent01/Heart13/polySurface4_shard_9
+        weight: 1
+      - path: parent01/Heart14
+        weight: 1
+      - path: parent01/Heart14/polySurface4_shard_10
+        weight: 1
+      - path: parent01/Heart15
+        weight: 1
+      - path: parent01/Heart15/polySurface4_shard_11
+        weight: 1
+      - path: parent01/Heart16
+        weight: 1
+      - path: parent01/Heart16/polySurface4_shard_12
+        weight: 1
+      - path: parent01/Heart17
+        weight: 1
+      - path: parent01/Heart17/polySurface4_shard_13
+        weight: 1
+      - path: parent01/Heart18
+        weight: 1
+      - path: parent01/Heart18/polySurface4_shard_14
+        weight: 1
+      - path: parent01/Heart19
+        weight: 1
+      - path: parent01/Heart19/polySurface4_shard_15
+        weight: 1
+      - path: parent01/Heart20
+        weight: 1
+      - path: parent01/Heart20/polySurface4_shard_16
+        weight: 1
+      - path: parent01/Heart21
+        weight: 1
+      - path: parent01/Heart21/polySurface4_shard_17
+        weight: 1
+      - path: parent01/Heart22
+        weight: 1
+      - path: parent01/Heart22/polySurface4_shard_18
+        weight: 1
+      - path: parent01/Heart23
+        weight: 1
+      - path: parent01/Heart23/polySurface4_shard_19
+        weight: 1
+      - path: parent01/Heart24
+        weight: 1
+      - path: parent01/Heart24/polySurface4_shard_20
+        weight: 1
+      - path: parent01/joint1
+        weight: 1
+      - path: parent01/joint1/pCube1_shard_1
+        weight: 1
+      - path: parent01/joint2
+        weight: 1
+      - path: parent01/joint2/pCube1_shard_2
+        weight: 1
+      - path: parent01/joint3
+        weight: 1
+      - path: parent01/joint3/pCube1_shard_4
+        weight: 1
+      - path: parent01/joint4
+        weight: 1
+      - path: parent01/joint4/pCube1_shard_5
+        weight: 1
+      - path: parent01/joint5
+        weight: 1
+      - path: parent01/joint5/pCube1_shard_6
+        weight: 1
+      - path: parent01/joint6
+        weight: 1
+      - path: parent01/joint6/pCube1_shard_7
+        weight: 1
+      - path: parent01/joint7
+        weight: 1
+      - path: parent01/joint7/pCube1_shard_8
+        weight: 1
+      - path: parent01/joint9
+        weight: 1
+      - path: parent01/joint9/pCube1_shard_9
+        weight: 1
+      - path: parent01/joint10
+        weight: 1
+      - path: parent01/joint10/pCube1_shard_10_shard_1
+        weight: 1
+      - path: parent01/joint11
+        weight: 1
+      - path: parent01/joint11/pCube1_shard_10_shard_2
+        weight: 1
+      - path: parent01/joint12
+        weight: 1
+      - path: parent01/joint12/pCube1_shard_10_shard_3
+        weight: 1
+      - path: parent01/joint13
+        weight: 1
+      - path: parent01/joint13/pCube1_shard_11
+        weight: 1
+      - path: parent01/joint14
+        weight: 1
+      - path: parent01/joint14/pCube1_shard_12
+        weight: 1
+      - path: parent01/joint15
+        weight: 1
+      - path: parent01/joint15/pCube1_shard_13_shard_1
+        weight: 1
+      - path: parent01/joint16
+        weight: 1
+      - path: parent01/joint16/pCube1_shard_13_shard_2_shard_1
+        weight: 1
+      - path: parent01/joint17
+        weight: 1
+      - path: parent01/joint17/pCube1_shard_13_shard_2_shard_2_shard_1
+        weight: 1
+      - path: parent01/joint18
+        weight: 1
+      - path: parent01/joint18/pCube1_shard_13_shard_2_shard_2_shard_2
+        weight: 1
+      - path: parent01/joint19
+        weight: 1
+      - path: parent01/joint19/pCube1_shard_13_shard_2_shard_2_shard_3
+        weight: 1
+      - path: parent01/joint20
+        weight: 1
+      - path: parent01/joint20/pCube1_shard_13_shard_2_shard_3_shard_1
+        weight: 1
+      - path: parent01/joint21
+        weight: 1
+      - path: parent01/joint21/pCube1_shard_13_shard_2_shard_3_shard_2
+        weight: 1
+      - path: parent01/joint23
+        weight: 1
+      - path: parent01/joint23/pCube1_shard_13_shard_2_shard_3_shard_3
+        weight: 1
+      - path: parent01/joint23/pCube1_shard_13_shard_2_shard_3_shard_3/joint22
+        weight: 1
+      - path: parent01/joint24
+        weight: 1
+      - path: parent01/joint24/pCube1_shard_13_shard_3_shard_1
+        weight: 1
+      - path: parent01/joint25
+        weight: 1
+      - path: parent01/joint25/pCube1_shard_13_shard_3_shard_2
+        weight: 1
+      - path: parent01/joint26
+        weight: 1
+      - path: parent01/joint26/pCube1_shard_13_shard_3_shard_3
+        weight: 1
+      - path: parent01/joint27
+        weight: 1
+      - path: parent01/joint27/pCube1_shard_14_shard_2_shard_1
+        weight: 1
+      - path: parent01/joint28
+        weight: 1
+      - path: parent01/joint28/pCube1_shard_14_shard_2_shard_2_shard_1
+        weight: 1
+      - path: parent01/joint29
+        weight: 1
+      - path: parent01/joint29/pCube1_shard_14_shard_2_shard_2_shard_2
+        weight: 1
+      - path: parent01/joint30
+        weight: 1
+      - path: parent01/joint30/pCube1_shard_14_shard_2_shard_2_shard_3
+        weight: 1
+      - path: parent01/joint31
+        weight: 1
+      - path: parent01/joint31/pCube1_shard_14_shard_2_shard_3_shard_1
+        weight: 1
+      - path: parent01/joint32
+        weight: 1
+      - path: parent01/joint32/pCube1_shard_14_shard_2_shard_3_shard_2
+        weight: 1
+      - path: parent01/joint33
+        weight: 1
+      - path: parent01/joint33/pCube1_shard_14_shard_2_shard_3_shard_3_shard_1
+        weight: 1
+      - path: parent01/joint34
+        weight: 1
+      - path: parent01/joint34/pCube1_shard_14_shard_2_shard_3_shard_3_shard_2_shard_1
+        weight: 1
+      - path: parent01/joint35
+        weight: 1
+      - path: parent01/joint35/pCube1_shard_14_shard_2_shard_3_shard_3_shard_2_shard_2
+        weight: 1
+      - path: parent01/joint36
+        weight: 1
+      - path: parent01/joint36/pCube1_shard_14_shard_2_shard_3_shard_3_shard_2_shard_3
+        weight: 1
+      - path: parent01/joint37
+        weight: 1
+      - path: parent01/joint37/pCube1_shard_14_shard_2_shard_3_shard_3_shard_3
+        weight: 1
+      - path: parent01/joint38
+        weight: 1
+      - path: parent01/joint38/pCube1_shard_14_shard_1_shard_1
+        weight: 1
+      - path: parent01/joint39
+        weight: 1
+      - path: parent01/joint39/pCube1_shard_14_shard_1_shard_2
+        weight: 1
+      - path: parent01/joint40
+        weight: 1
+      - path: parent01/joint40/pCube1_shard_14_shard_1_shard_3_shard_1
+        weight: 1
+      - path: parent01/joint41
+        weight: 1
+      - path: parent01/joint41/pCube1_shard_14_shard_1_shard_3_shard_2
+        weight: 1
+      - path: parent01/joint42
+        weight: 1
+      - path: parent01/joint42/pCube1_shard_14_shard_1_shard_3_shard_3
+        weight: 1
+      - path: parent01/joint43
+        weight: 1
+      - path: parent01/joint43/pCube1_shard_14_shard_3
+        weight: 1
+      - path: parent01/joint44
+        weight: 1
+      - path: parent01/joint44/pCube1_shard_14_shard_4
+        weight: 1
+      - path: parent01/joint45
+        weight: 1
+      - path: parent01/joint45/pCube1_shard_15
+        weight: 1
+      - path: parent01/joint46
+        weight: 1
+      - path: parent01/joint46/pCube1_shard_16
+        weight: 1
+      - path: parent01/joint47
+        weight: 1
+      - path: parent01/joint47/pCube1_shard_17
+        weight: 1
+      - path: parent01/joint48
+        weight: 1
+      - path: parent01/joint48/pCube1_shard_18_shard_1
+        weight: 1
+      - path: parent01/joint49
+        weight: 1
+      - path: parent01/joint49/pCube1_shard_18_shard_2
+        weight: 1
+      - path: parent01/joint50
+        weight: 1
+      - path: parent01/joint50/pCube1_shard_18_shard_3
+        weight: 1
+      - path: parent01/joint51
+        weight: 1
+      - path: parent01/joint51/pCube1_shard_18_shard_4_shard_1
+        weight: 1
+      - path: parent01/joint52
+        weight: 1
+      - path: parent01/joint52/pCube1_shard_18_shard_4_shard_2
+        weight: 1
+      - path: parent01/joint53
+        weight: 1
+      - path: parent01/joint53/pCube1_shard_18_shard_4_shard_3
+        weight: 1
+      - path: parent01/joint54
+        weight: 1
+      - path: parent01/joint54/pCube1_shard_18_shard_5
+        weight: 1
+      - path: parent01/joint55
+        weight: 1
+      - path: parent01/joint55/pCube1_shard_19
+        weight: 1
+      - path: parent01/joint56
+        weight: 1
+      - path: parent01/joint56/pCube1_shard_20
+        weight: 1
+      - path: parent01/Ribbon01
+        weight: 1
+      - path: parent01/Ribbon01/polySurface3_shard_1
+        weight: 1
+      - path: parent01/Ribbon02
+        weight: 1
+      - path: parent01/Ribbon02/polySurface3_shard_2
+        weight: 1
+      - path: parent01/Ribbon03
+        weight: 1
+      - path: parent01/Ribbon03/polySurface3_shard_3
+        weight: 1
+      - path: parent01/Ribbon04
+        weight: 1
+      - path: parent01/Ribbon04/polySurface3_shard_4
+        weight: 1
+      - path: parent01/Ribbon05
+        weight: 1
+      - path: parent01/Ribbon05/polySurface3_shard_5_shard_1
+        weight: 1
+      - path: parent01/Ribbon06
+        weight: 1
+      - path: parent01/Ribbon06/polySurface3_shard_5_shard_2
+        weight: 1
+      - path: parent01/Ribbon07
+        weight: 1
+      - path: parent01/Ribbon07/polySurface3_shard_5_shard_3
+        weight: 1
+      - path: parent01/Ribbon08
+        weight: 1
+      - path: parent01/Ribbon08/polySurface3_shard_5_shard_4
+        weight: 1
+      - path: parent01/Ribbon09
+        weight: 1
+      - path: parent01/Ribbon09/polySurface3_shard_6_shard_1
+        weight: 1
+      - path: parent01/Ribbon10
+        weight: 1
+      - path: parent01/Ribbon10/polySurface3_shard_6_shard_3
+        weight: 1
+      - path: parent01/Ribbon11
+        weight: 1
+      - path: parent01/Ribbon11/polySurface3_shard_6_shard_4
+        weight: 1
+      - path: parent01/Ribbon12
+        weight: 1
+      - path: parent01/Ribbon12/polySurface3_shard_6_shard_2_shard_1
+        weight: 1
+      - path: parent01/Ribbon13
+        weight: 1
+      - path: parent01/Ribbon13/polySurface3_shard_6_shard_2_shard_2
+        weight: 1
+      - path: parent01/Ribbon14
+        weight: 1
+      - path: parent01/Ribbon14/polySurface3_shard_6_shard_2_shard_3
+        weight: 1
+      - path: parent01/Ribbon15
+        weight: 1
+      - path: parent01/Ribbon15/polySurface3_shard_7
+        weight: 1
+      - path: parent01/Ribbon16
+        weight: 1
+      - path: parent01/Ribbon16/polySurface3_shard_8
+        weight: 1
+      - path: parent01/Ribbon17
+        weight: 1
+      - path: parent01/Ribbon17/polySurface3_shard_9
+        weight: 1
+      - path: parent01/Ribbon18
+        weight: 1
+      - path: parent01/Ribbon18/polySurface3_shard_10
+        weight: 1
+      - path: parent01/Ribbon19
+        weight: 1
+      - path: parent01/Ribbon19/polySurface3_shard_11
+        weight: 1
+      - path: parent01/Ribbon20
+        weight: 1
+      - path: parent01/Ribbon20/polySurface3_shard_12
+        weight: 1
+      - path: parent01/Ribbon21
+        weight: 1
+      - path: parent01/Ribbon21/polySurface3_shard_13
+        weight: 1
+      - path: parent01/Ribbon22
+        weight: 1
+      - path: parent01/Ribbon22/polySurface3_shard_14
+        weight: 1
+      - path: parent01/Ribbon23
+        weight: 1
+      - path: parent01/Ribbon23/polySurface3_shard_15
+        weight: 1
+      - path: parent01/Ribbon24
+        weight: 1
+      - path: parent01/Ribbon24/polySurface3_shard_16
+        weight: 1
+      - path: parent01/Ribbon25
+        weight: 1
+      - path: parent01/Ribbon25/polySurface3_shard_17
+        weight: 1
+      - path: parent01/Ribbon26
+        weight: 1
+      - path: parent01/Ribbon26/polySurface3_shard_18
+        weight: 1
+      - path: parent01/Ribbon27
+        weight: 1
+      - path: parent01/Ribbon27/polySurface3_shard_19
+        weight: 1
+      - path: parent01/Ribbon28
+        weight: 1
+      - path: parent01/Ribbon28/polySurface3_shard_20
+        weight: 1
+      - path: parent01/Ribbon29
+        weight: 1
+      - path: parent01/Ribbon29/polySurface3_shard_21
+        weight: 1
+      - path: parent01/Ribbon30
+        weight: 1
+      - path: parent01/Ribbon30/polySurface3_shard_22
+        weight: 1
+      - path: parent01/Ribbon31
+        weight: 1
+      - path: parent01/Ribbon31/polySurface3_shard_23
+        weight: 1
+      - path: parent01/Ribbon32
+        weight: 1
+      - path: parent01/Ribbon32/polySurface3_shard_24
+        weight: 1
+      - path: parent01/Ribbon33
+        weight: 1
+      - path: parent01/Ribbon33/polySurface3_shard_25
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

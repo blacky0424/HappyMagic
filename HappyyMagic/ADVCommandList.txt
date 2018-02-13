@@ -1,0 +1,62 @@
+﻿ADVSystemのコマンドリスト
+
+・名前の設定
+@name{【主人公】} 名前
+
+ウィンドウの名前部分に表示される名前を設定できる。
+【】はあっても無くてもおｋ
+
+例：@name{シンデレラ}
+
+
+・BGM／SEの設定
+@bgm {BGMの名前}
+@se {SEの名前}
+
+BGMの設定。共有されている音ファイルの名前をそのまま指定すればおｋ
+
+
+・背景画像の設定
+@bgi {背景画像のファイル名}
+
+背景画像の設定。指定した画像に差し替える。背景画像は、
+Resources/Image/Backgroundフォルダの中に入れてください。
+
+
+・キャラ立ち絵の設定
+@chara {立ち絵画像のファイル名, 設定するGameObjectの名前}
+キャラの立ち絵を差し替える。GameObjectの名前は「right」「center」「left」のいずれかで問題ないと思います。
+このコマンド単体では、キャラは表示されません。
+
+例：@chara{Cinderella, right}
+
+
+・キャラ立ち絵の表示／非表示設定
+@charaVisible{表示するGameObjectの名前, true/false}
+表示させたい立ち絵の設定。right、center、leftをGameObjectの名前に入れて、
+表示させるかどうかを「true」(表示)か「false」(非表示)で指定してください。
+
+例：
+@chara{Cinderella, right}
+@charaVisible{right, true}
+
+
+・エモーションの設定
+@emo {エモーションのファイル名, 設定するGameObjectの名前}
+エモーションを設定する。GameObjectの名前はキャラ立ち絵の指定と同じ。
+このコマンドだけで表示されないのも同じです。
+
+例：@emo{Emotion_Sample, }
+
+
+・エモーションの表示／非表示
+@emoVisible{表示するGameObjectの名前, true/false}
+表示させたいエモーションの設定。キャラ立ち絵の非表示と使い方は同じです。
+
+
+
+・遷移先シーンの指定
+@scene{シーンファイル名} 遷移先のシーン名
+
+このコマンドが呼ばれると指定のシーンファイルに遷移する。
+シーンのファイル名は、Scenesフォルダの中を参照。
