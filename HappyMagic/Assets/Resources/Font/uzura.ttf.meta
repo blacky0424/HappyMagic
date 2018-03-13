@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f8bf7eb54653797428bdbcc6b76aba94
+timeCreated: 1518764511
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: uzura_font
+  fontNames:
+  - uzura_font
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
